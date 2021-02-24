@@ -1,5 +1,4 @@
 .ui.borderless.topmenu.container.menu {
-  background-color: white;
   border: none;
   box-shadow: none;
 }
@@ -11,13 +10,9 @@
   color: white;
 }
 
-
-.ui.centered.body.image {
-  padding: 200px;
-}
-
 .green-background {
   background-color: #004030;
-  height:200px;
   color:white;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
